@@ -31,7 +31,8 @@ A star schema with `FactSales` at the center, linked to `DimDate`, `DimProduct`,
 
 **1. Sales & Business Overview**
 Tracks overall performance — revenue trend, orders, top countries, and top products.
-![Sales Overview](images/sales_overview.png)
+<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/82dec61f-9120-41d4-9562-49427290497a" />
+
 
 **2. Customer Analytics & Segmentation**
 Segments customers into High/Medium/Low value groups using RFM, and visualizes purchase frequency and recency patterns.
