@@ -31,16 +31,20 @@ A star schema with `FactSales` at the center, linked to `DimDate`, `DimProduct`,
 
 **1. Sales & Business Overview**
 Tracks overall performance — revenue trend, orders, top countries, and top products.
-<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/82dec61f-9120-41d4-9562-49427290497a" />
+
+<img width="1321" height="741" alt="image" src="https://github.com/user-attachments/assets/df231590-3474-49bd-8376-ac0f54a6917c" />
 
 
 **2. Customer Analytics & Segmentation**
 Segments customers into High/Medium/Low value groups using RFM, and visualizes purchase frequency and recency patterns.
-![Customer Segmentation](images/customer_segmentation.png)
+
+<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/b3d67384-23e5-4156-87fa-5b9905e0b86e" />
+
 
 **3. Customer Retention & Cohort Analysis**
 Shows how customer retention decays over time using a cohort retention heatmap.
-![Retention & Cohorts](images/retention_cohorts.png)
+
+<img width="1325" height="746" alt="image" src="https://github.com/user-attachments/assets/cb03fdce-80d9-40ab-9446-33a2df15755c" />
 
 ##  Key Business Insights
 - 5,878 customers generated **£20.48M** in revenue across 40K orders.
@@ -52,7 +56,7 @@ Shows how customer retention decays over time using a cohort retention heatmap.
 `PostgreSQL` · `SQL (CTEs, Window Functions, Views)` · `Power BI` · `DAX` · `Star Schema Modeling`
 
 ## 🔗 Links
-- SQL Scripts: [Add link]
-- Power BI File (.pbix): [Add link]
+- SQL Scripts: [[[Add link](https://github.com/ishamankar17/customer-analytics-sql-project/tree/main/Sql)]]
+- Power BI File (.pbix): [[Add link](https://github.com/ishamankar17/customer-analytics-sql-project/blob/main/Customer%20Segmentation%20Analysis.pbix)]
 
 
