@@ -23,7 +23,8 @@ This project analyzes customer purchasing behavior for an online retail business
 ##  Data Model
 A star schema with `FactSales` at the center, linked to `DimDate`, `DimProduct`, `DimCustomer`, and `DimCountry`.
 
-![Data Model](<img width="900" height="600" alt="Screenshot 2026-09-12 133253" src="https://github.com/user-attachments/assets/641ce9f4-4767-4b93-af7f-22b61d1060f4" />
+![Data Model](<img width="1226" height="640" alt="image" src="https://github.com/user-attachments/assets/23bfe1b8-1fdc-41b2-8587-4c36646b65e9" />
+
 )
 
 ##  Dashboards
