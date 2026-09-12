@@ -52,11 +52,11 @@ Shows how customer retention decays over time using a cohort retention heatmap.
 - 5,878 customers generated **£20.48M** in revenue across ~40K orders, at an average order value of **£510.92**.
 - The **UK** contributes the vast majority of revenue, with the remaining ~43 countries forming a long tail.
 - Revenue grew steadily through 2011, with a sharp spike in the final months of the year.
-- 
+  
 **Customer Value**
 - Customers split into **High, Medium, and Low Value** segments based on RFM. High Value customers are a small share of the base but account for a disproportionate share of revenue.
 - **70% repeat customer rate** — most customers return at least once after their first purchase.
-- 
+  
 **Retention**
 - Retention drops sharply after the first month across every cohort (from 100% down to roughly 20–35% by month 1), then declines more gradually.
 - Later cohorts (2011) retain worse than earlier ones (2009), suggesting retention has weakened over time rather than being a one-off dip — worth investigating further.
