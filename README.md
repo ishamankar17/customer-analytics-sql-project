@@ -47,16 +47,23 @@ Shows how customer retention decays over time using a cohort retention heatmap.
 <img width="1325" height="746" alt="image" src="https://github.com/user-attachments/assets/cb03fdce-80d9-40ab-9446-33a2df15755c" />
 
 ##  Key Business Insights
-- 5,878 customers generated **£20.48M** in revenue across 40K orders.
-- **70% repeat customer rate**, but retention drops sharply after month 1 (from 100% to ~20–35%).
-- A small **High Value** segment drives a disproportionate share of revenue, while **Low Value** customers make up the largest count.
-- UK dominates revenue contribution, followed by a long tail of European countries.
+
+**Revenue & Sales**
+- 5,878 customers generated **£20.48M** in revenue across ~40K orders, at an average order value of **£510.92**.
+- The **UK** contributes the vast majority of revenue, with the remaining ~43 countries forming a long tail.
+- Revenue grew steadily through 2011, with a sharp spike in the final months of the year.
+- 
+**Customer Value**
+- Customers split into **High, Medium, and Low Value** segments based on RFM. High Value customers are a small share of the base but account for a disproportionate share of revenue.
+- **70% repeat customer rate** — most customers return at least once after their first purchase.
+- 
+**Retention**
+- Retention drops sharply after the first month across every cohort (from 100% down to roughly 20–35% by month 1), then declines more gradually.
+- Later cohorts (2011) retain worse than earlier ones (2009), suggesting retention has weakened over time rather than being a one-off dip — worth investigating further.
+**So what:** the business should focus retention efforts in the first 30 days after a customer's initial purchase, and prioritize the High Value segment for loyalty/marketing spend since it drives outsized revenue.
 
 ##  Tech Stack
 `PostgreSQL` · `SQL (CTEs, Window Functions, Views)` · `Power BI` · `DAX` · `Star Schema Modeling`
 
-## 🔗 Links
-- SQL Scripts: [[[Add link](https://github.com/ishamankar17/customer-analytics-sql-project/tree/main/Sql)]]
-- Power BI File (.pbix): [[Add link](https://github.com/ishamankar17/customer-analytics-sql-project/blob/main/Customer%20Segmentation%20Analysis.pbix)]
 
 
